@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+
+# Env files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pm2.log
+
+# Uploads / user files
+uploads/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Build output (React admin later)
+admin-panel/dist/

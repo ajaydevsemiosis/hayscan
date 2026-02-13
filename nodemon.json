@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts,json",
+  "ignore": ["node_modules", "uploads", "new-folder", "**/wp-content/**", "**/vendor/**"],
+  "exec": "ts-node src/index.ts"
+}
